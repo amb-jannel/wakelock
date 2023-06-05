@@ -25,7 +25,7 @@ dev_dependencies:
     sdk: flutter
 
   flutter_lints: ^2.0.0
-  pigeon: ^1.0.2 # flutter pub run pigeon --input "pigeons/messages.dart"
+  pigeon: ^10.0.0 # flutter pub run pigeon --input "pigeons/messages.dart"
 
 flutter:
   plugin:
